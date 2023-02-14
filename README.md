@@ -6,7 +6,7 @@
 
 
 📚 I have studied **Machine Learning, Probability Theory and Statistics, Artificial Intelligence, Theory of Computation, Data Mining, Data Structures and Algorithms, Computer Vision, and Parallelism**. I have also taken relevant courses in Computer Systems, Databases, Multimedia Programming and Services, Development Environments, Interface Development, and Processes Programming. I am proficient in programming languages such as Python, R, Matlab, C, C++, Java, and have prior experience in JavaScript and PHP. 
-Additionally, I have a **deep learning** course certification from JEDI Junior Empresa 2022.
+Additionally, I have a **deep learning** course certification from JEDI Junior Empresa.
 
       
 🎯 My goal is to apply my knowledge and skills by contributing to projects, especially in the field of **artificial intelligence**. 
