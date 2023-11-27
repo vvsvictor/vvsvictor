@@ -9,7 +9,6 @@
 Additionally, I have a **deep learning** course certification from JEDI Junior Empresa.
 
       
-🎯 My goal is to apply my knowledge and skills by contributing to projects, especially in the field of **artificial intelligence**. 
 
 ## Connect With Me 
 
