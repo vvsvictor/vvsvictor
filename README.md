@@ -2,14 +2,17 @@
 
 ## About
 
-🎓 Hi there! I am Víctor, a graduate with a **Bachelor's degree in Informatics Engineering** with a specialization in computing from the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona). I completed my degree in Jan 2023.
+👋 Hi! I'm Víctor, a Software Engineer and Data Scientist passionate about machine learning and reinforcement learning.
 
+🎓 I hold a Master’s in Data Science from UOC and a Bachelor’s in Informatics Engineering from UPC-FIB.
 
-📚 I have studied **Machine Learning, Probability Theory and Statistics, Artificial Intelligence, Theory of Computation, Data Mining, Data Structures and Algorithms, Computer Vision, and Parallelism**. I have also taken relevant courses in Computer Systems, Databases, Multimedia Programming and Services, Development Environments, Interface Development, and Processes Programming. I am proficient in programming languages such as Python, R, Matlab, C, C++, Java, and have prior experience in JavaScript and PHP. 
-Additionally, I have a **deep learning** course certification from JEDI Junior Empresa.
+💼 Currently, I work at eDreams ODIGEO as part of the Prime team, focused on increasing retention among Prime members.
 
       
 
 ## Connect With Me 
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/-Victor%20Vivancos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorvvs/)](https://www.linkedin.com/in/victorvvs/)
+
+
+
